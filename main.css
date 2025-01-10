@@ -1,3 +1,25 @@
 body {
-  background-color: blanchedalmond;
+  background-color: #EEE2DF;
+}
+ h2{ 
+  color: #2F80E4
+ }
+
+ article{
+  padding: 50px;
+ }
+
+#articleOne{
+  font-family: 'Courier New';
+  border: 5px dotted #6DA0E1;
+}
+
+#articleTwo{
+  font-family: 'Times New Roman';
+  border: 5px solid #5B61B2;
+}
+
+#articleThree{
+  font-family: 'Verdana';
+  border: 3px dashed #dec1db;
 }
